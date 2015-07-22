@@ -1,0 +1,7 @@
+D:\DownLoad\RenameFile\RenameFile\obj\x86\Debug\RenameFile.Form1.resources
+D:\DownLoad\RenameFile\RenameFile\obj\x86\Debug\RenameFile.Properties.Resources.resources
+D:\DownLoad\RenameFile\RenameFile\obj\x86\Debug\RenameFile.csproj.GenerateResource.Cache
+D:\DownLoad\RenameFile\RenameFile\bin\Debug\RenameFile.exe
+D:\DownLoad\RenameFile\RenameFile\bin\Debug\RenameFile.pdb
+D:\DownLoad\RenameFile\RenameFile\obj\x86\Debug\RenameFile.exe
+D:\DownLoad\RenameFile\RenameFile\obj\x86\Debug\RenameFile.pdb
